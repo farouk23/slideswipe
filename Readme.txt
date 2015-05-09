@@ -1,0 +1,1 @@
+Project uses front end code to pull and display product feed from and API. Feed is displays image of available products and user can swipe left or right to either select product or remove it from few. A new product from the feed is then added to the view, code can be adapted to work with other API's or expanded on. 
